@@ -1,2 +1,1 @@
-# rsschool-cv
-https://fahrenheit911.github.io/rsschool-cv/cv
+# rsschool-cv (https://fahrenheit911.github.io/rsschool-cv/cv)
